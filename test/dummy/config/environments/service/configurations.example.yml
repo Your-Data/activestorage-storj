@@ -1,0 +1,14 @@
+# storj:
+#   service: storj
+#   access_grant:
+#   bucket:
+#   auth_service_address: auth.storjshare.io:7777
+#   link_sharing_address: https://link.storjshare.io
+
+# storj_public:
+#   service: storj
+#   access_grant:
+#   bucket:
+#   auth_service_address: auth.storjshare.io:7777
+#   link_sharing_address: https://link.storjshare.io
+#   public: true
