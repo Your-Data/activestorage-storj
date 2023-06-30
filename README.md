@@ -1,7 +1,7 @@
 # ActiveStorage-Storj
 ActiveStorage-Storj is a ruby gem that provides [Storj](https://www.storj.io/) cloud storage support for [ActiveStorage](https://guides.rubyonrails.org/active_storage_overview.html) in [Rails](https://rubyonrails.org/).
 
-Note: [direct upload](https://guides.rubyonrails.org/active_storage_overview.html#direct-uploads) is not supported in this gem.
+Note: [direct upload](https://guides.rubyonrails.org/active_storage_overview.html#direct-uploads) is not supported in this gem. To enable direct upload support, install [activestorage-storj-s3](https://github.com/Your-Data/activestorage-storj-s3) gem.
 
 ## Requirements
 * [Rails v7+](https://guides.rubyonrails.org/getting_started.html)
